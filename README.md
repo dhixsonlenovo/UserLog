@@ -1,0 +1,2 @@
+# UserLog
+FitnessAppClient
